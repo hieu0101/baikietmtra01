@@ -1,0 +1,56 @@
+html,body{
+    height: 100%;
+    width: 100%;
+    margin: 0%;
+    padding: 0%;
+    background-color: bisque;
+    background-size: cover
+    ;
+}
+.tieude{
+    font-size: 20px;
+    font-family: Arial, "Helvetica Neue", Helvetica, sans-serif;
+  text-align: center;
+  color: brown;
+}
+.phong{
+    z-index: 1;
+    height: 95%;
+    width: 90%;
+    margin:auto;
+    padding: 0%;
+    background-image: url(https://maytinhvui.com/wp-content/uploads/2021/02/Hinh-nen-anime-34-min.jpg); 
+    background-size: cover ;  
+    opacity: 0.8;
+}
+.khoi1{
+    
+    margin: 5%;
+    width: 45%;
+	height: 80%;
+	background: rgba(32, 180, 168, 0.557);
+    
+}
+.khoi2{
+    margin-top: 20px;
+    margin-left: 15%;
+    width: 70%;
+	height:110%;
+    background-image: url(64535402ec8229dc7093.jpg) ;
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: relative;
+    top :30px;
+
+}
+.khoi3{
+    text size: 15px;
+    color: brown;
+    height: 50%;
+    width: 50%;
+    background-color: rgba(146, 146, 60, 0.13);
+    background-size:contain;
+    background-repeat: no-repeat;
+    position: relative;
+    z-index: 1;
+}
